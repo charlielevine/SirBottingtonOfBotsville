@@ -1,5 +1,5 @@
 {
-  "name": "sirbottingtonofbotsville",
+  "name": "lordbottingtonofbotsville",
   "version": "1.0.0",
   "description": "A Twitter Bot",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/charlielevine/SirBottingtonOfBotsville.git"
+    "url": "git+https://github.com/charlielevine/LordBottingtonOfBotsville.git"
   },
   "keywords": [
     "twitter",
@@ -19,9 +19,9 @@
   "author": "Charlie Levine",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/charlielevine/SirBottingtonOfBotsville/issues"
+    "url": "https://github.com/charlielevine/LordBottingtonOfBotsville/issues"
   },
-  "homepage": "https://github.com/charlielevine/SirBottingtonOfBotsville#readme",
+  "homepage": "https://github.com/charlielevine/LordBottingtonOfBotsville#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "twitter": "^1.7.1"
